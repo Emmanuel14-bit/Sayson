@@ -1,0 +1,29 @@
+body {
+    margin: 16px;
+}
+
+h1 {
+    font-size: 64px;
+    margin: 40px 0 60px;
+}
+
+p {
+    width: 60%;
+    height: 500px;
+    margin: 0 0 44px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}

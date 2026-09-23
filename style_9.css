@@ -1,0 +1,33 @@
+body {
+    margin: 25px 7px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 45px;
+}
+
+.container {
+    display: flex;
+    gap: 5px;
+}
+
+p {
+    width: 248px;
+    height: 248px;
+    margin: 0;
+    color: white;
+    font-size: 20px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
